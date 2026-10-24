@@ -1,0 +1,8 @@
+name = "catatku-api"
+main = "src/index.js"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "catatku"
+database_id = "45da3df5-9324-40f3-9bc3-3cb45bfb3129"
